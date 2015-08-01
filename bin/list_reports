@@ -1,0 +1,2 @@
+#!/bin/sh
+omp -i -u root -w toor --xml="<get_reports/>" > reports.xml

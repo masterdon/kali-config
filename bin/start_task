@@ -1,0 +1,2 @@
+#!/bin/sh
+omp -u root --xml='<start_task task_id="ebe7f80a-8267-41f0-8bd2-da14f8ad0ac4"/>'

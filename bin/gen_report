@@ -1,0 +1,7 @@
+#!/bin/sh
+omp -u root -w toor -i --verbose --xml='<get_reports \
+          report_id="69b2575c-6e74-4390-92b0-c6ef9c3c16f3" \
+      format_id="a3810a62-1f62-11e1-9219-406186ea4fc5"  \
+	level="hml" \
+	first_result=1 \
+/>' > router.txt
