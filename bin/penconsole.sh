@@ -1,6 +1,6 @@
 #!/bin/sh
 #===========================================================
-#	File: /usr/local/bin/myconsole.sh
+#	File: /usr/local/bin/penconsole.sh
 #	Author: Donald Raikes <donraikes1030@gmail.com>
 #	Date:	07/31/2015
 #
